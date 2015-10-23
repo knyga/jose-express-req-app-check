@@ -1,0 +1,7 @@
+Test app listening at http://:::3333
+Time: 1445594803441
+middleware stack [ '/test' ]
+request stack [ '/test' ]
+Time: 1445594805215
+middleware stack [ '/test' ]
+request stack [ '/test' ]
